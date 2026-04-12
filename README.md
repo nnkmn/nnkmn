@@ -1,83 +1,62 @@
 # 👋 欢迎来到我的 GitHub 主页
 
-全栈开发工程师 | 技术爱好者 | 开源贡献者
+## 🚀 关于我
 
-## 👨‍💻 关于我
+我是一名全栈开发工程师，专注于构建高质量的 Web 解决方案。我热衷于将创意转化为功能强大的应用程序，并且不断探索新技术和最佳实践。
 
-我是一名全栈开发工程师，拥有丰富的前端和后端开发经验，热衷于构建完整的Web解决方案。我擅长设计响应式界面、实现复杂交互逻辑，同时也精通构建高性能的后端API和数据库设计。
+- 🔭 **当前专注**：前端框架（Vue.js/React）、UI/UX 设计、前端性能优化、后端服务（FastAPI）、Python 异步编程
+- 🌱 **正在学习**：微服务架构、分布式系统、数据库优化、现代前端状态管理
+- 👯 **合作意向**：寻找志同道合的伙伴一起开发开源项目
+- 📫 **联系我**：[GitHub](https://github.com/nnkmn) | [Email](mailto:yaxuanloveli@gmail.com)
 
-### 🔭 目前专注
-前端框架（Vue.js/React）、UI/UX设计、前端性能优化，以及后端框架（FastAPI）、Python异步编程和现代ORM框架
-
-### 🌱 正在学习
-更多关于后端服务、数据库优化、微服务架构和全栈解决方案的最佳实践
-
-### 👯 合作意向
-寻找志同道合的伙伴一起开发开源项目
-
-### 📫 联系我
-通过GitHub或邮件联系我
-
-## 🚀 技术栈
+## 🛠️ 技术栈
 
 ### 编程语言
-- JavaScript
-- TypeScript
+- JavaScript/TypeScript
 - Python
-- HTML5
-- CSS3
+- HTML5/CSS3
 
-### 前端框架与库
-- Vue.js
-- React
-- Node.js
-- Electron
-
-### 后端框架与库
-- FastAPI
-- SQLModel
-- JWT
-- Uvicorn
-
-### UI/UX 工具
-- TailwindCSS
-- SCSS
+### 前端技术
+- Vue.js & React
+- Node.js & Electron
+- TailwindCSS & SCSS
 - Ant Design
+
+### 后端技术
+- FastAPI
+- SQLModel & SQLAlchemy
+- JWT 认证
+- Uvicorn
 
 ### 数据库
 - SQLite
 - MySQL
 
 ### 开发工具
-- Git
+- Git & GitHub
 - VS Code
-- GitHub
 - Vite
 - ESLint
 
-## 🏆 我的项目
+## 🏆 项目亮点
 
-### 📌 精选项目
+### 游戏俱乐部网站后端
+一个为游戏爱好者打造的社区网站后端系统，提供完整的用户管理、内容发布和活动组织功能。
 
-#### 游戏俱乐部网站后端
-一个为游戏爱好者打造的社区网站后端系统，提供用户管理、游戏资讯发布、活动组织等功能。
-
-**技术栈：** Python, SQLAlchemy, MySQL
-
-**主要特点：** 用户认证与权限管理、游戏资讯CRUD操作、活动发布与报名功能、社区互动系统
+**技术栈**：Python, SQLAlchemy, MySQL
+**核心功能**：用户认证与权限管理、游戏资讯 CRUD 操作、活动发布与报名、社区互动系统
 
 [查看项目](https://github.com/nnkmn/Game-club-website-backend)
 
-#### MCLA
-一个自主开发的我的世界(Minecraft)游戏启动器，提供游戏版本管理、插件管理、材质包加载等功能，为玩家提供更加便捷的游戏体验。
+### MCLA - Minecraft 启动器
+自主开发的 Minecraft 游戏启动器，提供便捷的游戏管理体验。
 
-**技术栈：** JavaScript, Electron, Node.js, Vue.js
-
-**主要特点：** 多版本游戏管理、一键安装mod和资源包、自定义游戏配置、界面美观易用
+**技术栈**：JavaScript, Electron, Node.js, Vue.js
+**核心功能**：多版本游戏管理、一键安装 mod 和资源包、自定义游戏配置、美观易用的界面
 
 [查看项目](https://github.com/nnkmn/MCLA)
 
-### 📊 GitHub 统计
+## 📊 GitHub 统计
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnkmn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_light)
 
@@ -85,28 +64,25 @@
 
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nnkmn&theme=github&bg_color=ffffff&hide_border=true&line=0366d6&point=586069)
 
-## 🎯 目标
+## 🎯 职业目标
 
-### 已完成目标
-- ✅ 掌握Vue.js/React前端框架和组件化开发
-- ✅ 学习现代CSS技术（TailwindCSS/SCSS）和响应式设计
-- ✅ 掌握FastAPI和现代Python异步编程
-- ✅ 学习SQLModel和高性能数据库设计
+### 已达成目标
+- ✅ 掌握 Vue.js/React 前端框架和组件化开发
+- ✅ 学习现代 CSS 技术和响应式设计
+- ✅ 掌握 FastAPI 和 Python 异步编程
+- ✅ 学习 SQLModel 和高性能数据库设计
 
-### 正在进行的目标
-- → 深入理解微服务架构和分布式系统
-- → 学习更高级的前端性能优化技术
-- → 探索现代前端状态管理解决方案
-- → 贡献更多开源项目
+### 正在努力
+- 🚀 深入理解微服务架构和分布式系统
+- 🚀 学习更高级的前端性能优化技术
+- 🚀 探索现代前端状态管理解决方案
+- 🚀 贡献更多开源项目
 
-## 📫 联系我
-
-- [GitHub](https://github.com/nnkmn)
-- [Email](mailto:yaxuanloveli@gmail.com)
-
-## 💡 随机思考
+## 💡 开发理念
 
 > "代码是写给人看的，只是恰好能在机器上运行。" —— 哈罗德·埃布尔森
+
+我相信编写清晰、可维护的代码是每个开发者的责任，这不仅有助于团队协作，也能提高项目的长期可扩展性。
 
 ---
 
