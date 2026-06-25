@@ -128,11 +128,11 @@
 | 👥 关注者 | **0** |
 | 🔄 正在关注 | **1** |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnkmn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnkmn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_light)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnkmn&exclude_repo=github-readme-stats&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nnkmn&exclude_repo=github-readme-stats&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_light)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nnkmn&theme=github&bg_color=ffffff&hide_border=true&line=0366d6&point=586069)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nnkmn&theme=github&bg_color=ffffff&hide_border=true&line=0366d6&point=586069)
 
 </div>
 
